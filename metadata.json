@@ -1,0 +1,6 @@
+{
+  "name": "Webora Admin Suite",
+  "description": "Panel de administración SaaS profesional para Webora: gestión de tiendas, catálogos, menús digitales, inventario, pedidos y personalización en vivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
